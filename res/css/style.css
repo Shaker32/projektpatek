@@ -13,7 +13,7 @@ p {
 }
 
 body {
-  background-image:url(/res/img/958f3e77e35547b4d0a011f7a05cf872.jpg) ;
+  background-image:url("../img/background.jpg") ;
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
