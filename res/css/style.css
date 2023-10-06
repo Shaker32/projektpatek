@@ -1,0 +1,26 @@
+#draven {
+  max-width: 130px;
+  width: 100%;
+  position: relative;
+  left: 45%;
+  transition: 300ms;
+
+}
+p {
+  position: relative;
+  left: 48%;
+  color: white;
+}
+
+body {
+  background-image:url(/res/img/958f3e77e35547b4d0a011f7a05cf872.jpg) ;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 0px;
+}
+
+#draven:hover {
+  transform: scale(1.5);
+  transition: 300ms;
+}
