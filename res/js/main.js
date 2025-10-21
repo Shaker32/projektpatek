@@ -7,7 +7,7 @@ let numberOfDravens = 0;
 // {} - scope
 draven.onclick = () => {
     //zvednout cislo o 1
-numberOfDravens += 1;
+numberOfDravens += 2;
 
     //zobrazit v odstavci
     counter.innerText = "dravens:" + numberOfDravens;
